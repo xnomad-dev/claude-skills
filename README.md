@@ -20,6 +20,14 @@ Writes ready-to-film video scripts with hooks, segment breakdowns, B-roll cues, 
 
 ---
 
+### [ad-copy-generator](ad-copy-generator/)
+Writes high-converting ad copy for Meta, Google (Search, Display, YouTube), LinkedIn, TikTok, and X. Includes platform-native variations, A/B test sets, funnel-stage targeting (cold/warm/hot retargeting sequences), policy compliance checks, and optional Canva graphics.
+
+**Platforms:** Meta · Google Search · Google Display · YouTube · LinkedIn · TikTok · X  
+**Delivers:** Primary ads · 3 variations per platform · A/B matrix · Retargeting sequence · Compliance checklist
+
+---
+
 ## Installation
 
 ### Claude Code CLI
